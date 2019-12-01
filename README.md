@@ -1,2 +1,2 @@
-# SimplePythonGames
-games made using python
+# Python programs
+games, application & scripts made using python
